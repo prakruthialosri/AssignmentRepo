@@ -18,7 +18,11 @@
             </a>            
         </div>
             <div class="content-body">
-                <div class="success-text">Success-from Feature1  and Feature2!</div>
+<<<<<<< HEAD
+                <div class="success-text">Success-from Feature1!</div>
+=======
+                <div class="success-text">Success from Feature2!</div>
+>>>>>>> Feature2
                 <div class="description line-1"> Azure DevOps Project has been successfully setup</div>
                 <div class="description line-2"> Your HTML app is up and running on Azure</div>
                 <div class="next-steps-container">
